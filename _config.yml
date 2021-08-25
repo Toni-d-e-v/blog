@@ -39,11 +39,8 @@ permalink: /:year/:month/:day/:title/
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: toni.dumancic@protonmail.com
-  facebook: #
   github: https://github.com/Toni-d-e-v/
-  instagram: #
   linkedin: toni dumancic
-  rss: # just type anything here for a working RSS icon
   twitter: Toni__Dev
 
 plugins:
